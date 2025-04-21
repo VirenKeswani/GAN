@@ -1,4 +1,4 @@
-# FaceForgeGAN 🎭
+# Face GAN 🎭
 
 A Deep Convolutional Generative Adversarial Network (DCGAN) built with Keras/TensorFlow that generates realistic 128x128 human faces from pure noise. Trained from scratch, this model is capable of producing high-quality synthetic portraits using a combination of convolutional layers, batch normalization, and LeakyReLU activations.
 
@@ -30,5 +30,5 @@ Generated after **250 iterations**:
 
 ```bash
 git clone https://github.com/yourusername/FaceForgeGAN.git
-cd FaceForgeGAN
-pip install -r requirements.txt
+cd GAN
+
